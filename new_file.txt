@@ -1,1 +1,5 @@
 git text
+hi i am jeongwoo cho
+nice to meet you
+i study modifying a file
+
