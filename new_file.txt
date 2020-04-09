@@ -1,6 +1,0 @@
-git text -> add new file
-hi i am jeongwoo cho 
-nice to meet you
-i study modifying a file: 1st modified local->remote
-
-hi i am jeongwoo cho: 2st modified remote->local
